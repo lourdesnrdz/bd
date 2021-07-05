@@ -42,7 +42,7 @@ To acces Firebase all you need is a Google Account. You can create a project and
 
 ## Concepts
 
-### DB: 
+### DB 
 There are two types of databases:
 * **Relational:** its organized in tables (columns, rows), based on files.
 * **Non-Relational:** organized in documents, useful on squemas that update frequently.
