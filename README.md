@@ -40,14 +40,14 @@ To acces Firebase all you need is a Google Account. You can create a project and
 3. Create a new proyect
 4. Go to Firestore Database on the menu and now you can start creating your DB
 
-### Concepts
+## Concepts
 
-#### DB: 
+### DB: 
 There are two types of databases:
 * **Relational:** its organized in tables (columns, rows), based on files.
 * **Non-Relational:** organized in documents, useful on squemas that update frequently.
 
-#### Relational DB Concepts
+### Relational DB Concepts
 * **Entity:** represents anything of the real world.
     * **Strong Entity:** can exist on its own, represented by a single rectangle.
     * **Weak Entity:** depend on a string entity, represented by double rectangle.
@@ -63,7 +63,7 @@ There are two types of databases:
     * N - M
 * **ER Diagram:** diagram that helps us represent our entities, their attributes and the relationship between entities.
 
-#### SQL
+### MySQL
 * **DDL:** Data Defitnition Language, helps us create the sttructure of the database. 
     * **CREATE:**  create a new DB, table or squema.
     * **ALTER:** alter an existing table, column descriptions, etc.
@@ -75,7 +75,7 @@ There are two types of databases:
     * **UPDATE:** to modify existing data from a table.
     * **DELETE:** to delete all the records of a table, this doesn't include the spaces assigned to them.
 
-#### Non-Relation DB
+### Non-Relation DB Concepts
 * **Key - Value oriented:** are ideal to store and obtain data with a unique key.
 * **Based on Documents:** ideal to store data in JSON and XML format
 * **Based on Graphs:** nodes or entities that have multiple relationships, related everyone with everyone.
