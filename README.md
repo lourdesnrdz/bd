@@ -29,7 +29,6 @@ On this course I used the following development technologies:
 The setup for this project was made on a Windows 10 OS.
 
 ### MySQL Workbench
-We needed a phpmyadmin server for the project. To access this we installed XAMPP, following:
 1. Go to [https://dev.mysql.com/downloads/windows/installer/5.6.html](https://dev.mysql.com/downloads/windows/installer/5.6.html) 
 2. Select the Installer and click download
 3. Click on  'No thanks, just start my download' and install the software.
